@@ -1,5 +1,5 @@
 # Quality-Evaluation-of-OCR-Recognition-Tasks
-CCL25-Eval评测任务申请书
+
 
 # 任务内容
 
